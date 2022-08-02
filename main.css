@@ -10,9 +10,9 @@ h1{
 }
 
 body{
-  background-color: bisque;
+  background-color: rgb(4, 184, 184);
   
-  text-align: center;
+  
 }
 
 main{
@@ -20,11 +20,13 @@ main{
   border:5px solid gray;
   width:800px;
   height:800px;
-  margin-left:500px;
+  margin-left:550px;
   font-size: 25px;
   border-radius: 10px;
   float:left;
   box-shadow: 5px 7px rgb(192, 184, 184);
+  background-color: rgb(245, 238, 230);
+  
     
 }
 
