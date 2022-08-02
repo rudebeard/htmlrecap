@@ -1,0 +1,113 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+h1{
+  padding:15px 0;
+  color:red;
+  text-align: center;
+}
+
+body{
+  background-color: bisque;
+  
+  text-align: center;
+}
+
+main{
+  position:relative;
+  border:5px solid gray;
+  width:800px;
+  height:800px;
+  margin-left:500px;
+  font-size: 25px;
+  border-radius: 10px;
+  float:left;
+  box-shadow: 5px 7px rgb(192, 184, 184);
+    
+}
+
+section{
+float:left;
+}
+
+ #q {
+  list-style-type:none;  
+  border-bottom:2px solid;
+}
+
+nav ul li{
+  display:inline-block;
+  padding:0 0 15px 15px ;
+  font-size: 27px;
+  width:18%;
+  text-align: center;
+  padding:10px 25px;
+  
+}
+
+nav ul li:hover {
+  color:orange;
+  background-color: aquamarine;
+  cursor:pointer;
+  font-size: 35px;
+
+}
+
+#h{
+  width:300px;
+  height:280px;
+  float:right;
+  border-radius: 15px;
+  padding-top:2px;
+  
+}
+
+footer {
+  padding-bottom:0;
+  position:absolute;
+  bottom:0px;
+  width:780px;
+  border-top:1px solid;
+  text-align: center;
+  padding:10px;
+  font-size:30px;
+}
+
+.r{
+  float:left;
+  border:5px solid rgb(102, 87, 87);
+  margin:25px;
+  border-radius:7px;
+  color:darkgrey
+}
+
+.r img{
+  width:195px;
+  display:inline-block;
+  height:380px;
+  text-align: center;
+  
+}
+
+.label{
+  padding:25px;
+  font-size: 30px;
+  text-shadow: 8px;
+  margin:35px;
+  text-shadow:7px;
+}
+
+#ben{
+  margin:200px;
+  
+}
+
+tr:nth-child(2n-1) {
+  background-color: rgb(189, 185, 180);
+  
+  
+}
+
+
